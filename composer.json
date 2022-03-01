@@ -1,0 +1,23 @@
+{
+    "name": "yumi/slave",
+    "description": "Slave bot for \"\u0000\u0000\u0000\u0000 Discord \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000.\"",
+    "type": "project",
+    "require": {
+        "vlucas/phpdotenv": "5.4.x-dev",
+        "team-reflex/discord-php": "dev-master",
+        "clue/reactphp-sqlite": "dev-main"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yumi\\Slave\\": "src/Slave"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kao Kittisak",
+            "email": "kittisakphiri@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
