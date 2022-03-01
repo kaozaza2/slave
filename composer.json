@@ -1,6 +1,6 @@
 {
     "name": "yumi/slave",
-    "description": "Slave bot for \"\u0000\u0000\u0000\u0000 Discord \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000.\"",
+    "description": "Slave bot for \"ห้อง Discord ห้องหนึ่ง.\"",
     "type": "project",
     "require": {
         "vlucas/phpdotenv": "5.4.x-dev",
